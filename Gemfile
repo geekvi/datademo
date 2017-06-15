@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '1.7.27'
+ruby '2.2.7'
 
 gem 'pg'
 gem 'rack-contrib', git: 'http://github.com/rack/rack-contrib'
